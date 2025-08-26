@@ -8,3 +8,5 @@ All datasets associated with this manuscript are provided in this repository.
 6) Information on production data required to align with the soil and root biodiversity samples are given in "Required trees.csv"
 7) Information on dead trees without production data is given in "dead_trees.csv"
 8) All of these datasets are required in the reproducible code for the creation and manipulation of associated datasets and figure production throughout this manuscript. This code is given in "Reproducible_code.R"
+
+Any issues with the above data or code, please do not hesitate to reach out :) 
